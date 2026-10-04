@@ -1,0 +1,16 @@
+# Секреты и токены
+secrets.py
+.env
+
+# Виртуальное окружение Python
+.venv/
+venv/
+env/
+
+# Файлы PyCharm
+.idea/
+
+# Системные файлы
+__pycache__/
+*.pyc
+.DS_Store
